@@ -1,7 +1,7 @@
 {
   "name": "pack-to-si",
-  "version": "1.0.0",
-  "type":"module",
+  "version": "1.0.1",
+  "type": "module",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
