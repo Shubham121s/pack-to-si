@@ -1,7 +1,7 @@
 ﻿
 # Counter App
 
-This is a simple React application that demonstrates the use of a custom hook for managing a counter, along with buttons to increment and decrement the counter value.
+This is a simple React application that demonstrates the use of a custom hook for managing a counter, along with buttons to increment and decrement the counter value.//
 
 ## Features
 
